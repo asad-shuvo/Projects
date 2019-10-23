@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MPF6">
+    <output-path>$PROJECT_DIR$/out/artifacts/MPF6</output-path>
+    <root id="root">
+      <element id="archive" name="MPF6.jar">
+        <element id="module-output" name="MPF6" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
